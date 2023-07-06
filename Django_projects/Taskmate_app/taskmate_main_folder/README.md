@@ -14,13 +14,6 @@ Taskmate is a task manager web application build using Django Framework. The aim
 
 ![App Screenshot](https://raw.githubusercontent.com/ShubhamSarda/random-resources/main/images/taskmate-4.png)
 
-## Demo
-
-Deployed on Railway - https://taskmate.up.railway.app/
-
-Username: demo  
-Password: LearnDjango@72
-
   
 ## Documentation
 
