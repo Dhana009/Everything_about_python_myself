@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "custom message"
+git config --global user.email "tvsdhanan009@gmail.com"
+git config --global user.name "dhana009"
+git remote add origin "url"
+git push -u origin master
